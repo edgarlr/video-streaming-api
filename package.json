@@ -1,5 +1,5 @@
 {
-  "name": "platzi-video-api",
+  "name": "streaming-video-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "cover": "nyc npm run test",
     "report": "nyc report --reporter=html && open coverage/index.html"
   },
-  "author": "",
+  "author": "@edgarlr",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^9.1.0",
